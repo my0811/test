@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 understand how stage works
 
 append no add 
+my boss is a sb 
