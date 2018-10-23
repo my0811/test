@@ -6,4 +6,5 @@ understand how stage works
 append no add 
 my boss is a sb
 my boss is a sb2
-remove file and update file 
+remove file and update file
+change remote resposity name 
