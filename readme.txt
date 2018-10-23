@@ -5,4 +5,5 @@ understand how stage works
 
 append no add 
 my boss is a sb
-my boss is a sb2 
+my boss is a sb2
+remove file and update file 
